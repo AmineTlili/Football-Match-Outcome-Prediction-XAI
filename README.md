@@ -1,4 +1,4 @@
-# ⚽ Football Match Outcome Prediction with XAI 🧠  
+# ⚽ Football Match Outcome Prediction with XAI 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Challenge](https://img.shields.io/badge/ChallengeData-QRT-red)
