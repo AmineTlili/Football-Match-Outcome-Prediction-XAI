@@ -106,19 +106,3 @@ We applied both **SHAP** and **LIME** to interpret model predictions:
 - Strong prediction for `Home Wins`, weaker performance on `Draw` due to imbalance
 - SHAP showed top features: `GOALS`, `SHOTS_ON_TARGET`, `POSSESSION`
 
----
-
-## 📁 File Structure
-
-```text
-├── data/
-│   ├── X_train.zip
-│   ├── X_test.zip
-│   ├── Y_train.csv
-│   └── Y_train_supp.csv
-├── notebooks/
-│   ├── eda.ipynb
-│   ├── model_training.ipynb
-│   └── explainability.ipynb
-├── README.md
-└── requirements.txt
